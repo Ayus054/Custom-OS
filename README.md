@@ -40,7 +40,7 @@ CustomOs2002/
 
 ```bash
 git clone https://github.com/Magnus0969/CustomOs2002.git
-cd custom os
+cd Custom-OS
 ```
 
 ### 2. Compile
