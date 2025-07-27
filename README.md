@@ -39,7 +39,7 @@ CustomOs2002/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Magnus0969/CustomOs2002.git
+git clone https://github.com/Ayus054/Custom-OS.git
 cd Custom-OS
 ```
 
