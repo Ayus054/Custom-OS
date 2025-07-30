@@ -60,7 +60,7 @@ g++ os/CustomOS.cpp calculator/Calculator.cpp editor/TextEditor.cpp filesystem/F
 ## 🧠 Learning Outcomes
 
 * Process scheduling fundamentals
-* Java file I/O operations and console input handling
+* c++ file I/O operations and console input handling
 * Modular design and object-oriented programming
 * Simulation of basic operating system components
 
